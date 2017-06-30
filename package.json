@@ -1,7 +1,7 @@
 {
-  "name": "orderid-generator",
-  "version": "1.0.0",
-  "description": "Generatore di un id per gli ordini",
+  "name": "order-id-generator",
+  "version": "0.0.1",
+  "description": "Unique order id generator for Firebase",
   "main": "dist/index.js",
   "scripts": {
     "del": "rimraf dist",
