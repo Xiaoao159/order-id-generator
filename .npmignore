@@ -1,0 +1,8 @@
+.babelrc
+.git
+.gitignore
+.gitattributes
+example
+node_modules
+*.test.js
+src
